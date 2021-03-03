@@ -13,6 +13,7 @@
 		3F93C76025EFCFCC00506B88 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F93C75E25EFCFCC00506B88 /* Main.storyboard */; };
 		3F93C76225EFCFCD00506B88 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F93C76125EFCFCD00506B88 /* Assets.xcassets */; };
 		3F93C76525EFCFCD00506B88 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 3F93C76325EFCFCD00506B88 /* LaunchScreen.storyboard */; };
+		3F93C76D25EFD00600506B88 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F93C76C25EFD00600506B88 /* ContentView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F93C76125EFCFCD00506B88 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		3F93C76425EFCFCD00506B88 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		3F93C76625EFCFCD00506B88 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F93C76C25EFD00600506B88 /* ContentView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ContentView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				3F93C75825EFCFCC00506B88 /* AppDelegate.swift */,
 				3F93C75A25EFCFCC00506B88 /* SceneDelegate.swift */,
 				3F93C75C25EFCFCC00506B88 /* ViewController.swift */,
+				3F93C76C25EFD00600506B88 /* ContentView.swift */,
 				3F93C75E25EFCFCC00506B88 /* Main.storyboard */,
 				3F93C76125EFCFCD00506B88 /* Assets.xcassets */,
 				3F93C76325EFCFCD00506B88 /* LaunchScreen.storyboard */,
@@ -140,6 +143,7 @@
 			files = (
 				3F93C75D25EFCFCC00506B88 /* ViewController.swift in Sources */,
 				3F93C75925EFCFCC00506B88 /* AppDelegate.swift in Sources */,
+				3F93C76D25EFD00600506B88 /* ContentView.swift in Sources */,
 				3F93C75B25EFCFCC00506B88 /* SceneDelegate.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
